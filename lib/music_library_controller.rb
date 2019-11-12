@@ -23,7 +23,7 @@ class MusicLibraryController
     input = gets.strip
 
     case input
-      
+
 
   end
 
